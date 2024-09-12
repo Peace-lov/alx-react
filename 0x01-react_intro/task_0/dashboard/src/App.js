@@ -1,12 +1,12 @@
 import React from "react";
-import ALX_logo from "./ALX_logo.jpg"
+import ALX_logo from "./ALX_logo.jpg";
 import './App.css';
 
 function App() {
   return (
     <>
       <div className="App">
-        <img src={ALX_logo} />
+        <img src={ALX_logo} alt="logo" />
         <h1>School dashboard</h1>
       </div>
       <div className="App-body">
