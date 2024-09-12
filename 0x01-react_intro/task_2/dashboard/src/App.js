@@ -1,6 +1,6 @@
 import React from "react";
 import ALX_logo from "./ALX_logo.jpg";
-import './App.css';
+import "./App.css";
 import { getFullYear, getFooterCopy } from "./utils";
 
 function App() {
@@ -12,9 +12,9 @@ function App() {
       </div>
       <div className="App-body">
         <p>Login to access the full dashboard</p>
-        <label htmlFor="email">Email</label>
+        <label htmlFor="email">Email: </label>
         <input type="email" id="email" />
-        <label htmlFor="password">Password</label>
+        <label htmlFor="password"> Password: </label>
         <input type="password" id="password" />
         <button>OK</button>
       </div>
