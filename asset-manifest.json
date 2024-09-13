@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/alx-react/static/css/main.fd872eea.css",
+    "main.js": "/alx-react/static/js/main.1238f7be.js",
+    "static/media/ALX_logo.jpg": "/alx-react/static/media/ALX_logo.24bab5d633e36ca8d17e.jpg",
+    "index.html": "/alx-react/index.html",
+    "main.fd872eea.css.map": "/alx-react/static/css/main.fd872eea.css.map",
+    "main.1238f7be.js.map": "/alx-react/static/js/main.1238f7be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd872eea.css",
+    "static/js/main.1238f7be.js"
+  ]
+}
